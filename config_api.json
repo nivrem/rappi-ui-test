@@ -1,4 +1,4 @@
-var config={"use_api": true, 
+var config={"use_api": false, 
 "url":"http://localhost/rappi_ui_test/api/",
 "cantidad_noticias":4
 };	
