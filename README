@@ -1,0 +1,5 @@
+Test UI Rappi
+-------------
+Para configurar el uso de las noticias con el api editar el archivo config_api.json.
+
+Para cargar las noticias con llamada al api editar el valor use_api y colocarlo en true.
